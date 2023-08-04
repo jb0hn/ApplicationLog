@@ -1,3 +1,6 @@
+### About
+An interactive data visualization portfolio project for analyzing the frequency of applications over time, using Python, Jupyter Notebook, pandas, Seaborn, and Plotly.
+
 ### **Interactive Project Page**: 
 [>>> Click Here <<<
 ](https://jb0hn.github.io/ApplicationLog/applications_log.html)
