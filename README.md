@@ -1,6 +1,6 @@
-### **Project Name**: 
-ApplicationLog
-
+### **Interactive Project Page**: 
+[Click Here
+](https://jb0hn.github.io/ApplicationLog/applications_log.html)
 ### **Objective**: 
 To analyze and visualize the frequency and distribution of applications over time.
 
