@@ -1,5 +1,7 @@
 ### About
-An interactive data visualization portfolio project for analyzing the frequency of applications over time, using Python, Jupyter Notebook, pandas, Seaborn, and Plotly with randomized data set.
+An interactive data visualization project for analyzing the frequency of applications over time, using Python, Jupyter Notebook, pandas, Seaborn, and Plotly with randomized data set.
+
+**IMPORTANT: This is just a portfolio project.**
 
 ### **Interactive Project Page**: 
 [>>> Click Here <<<
